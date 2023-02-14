@@ -1,10 +1,10 @@
 <h1 style="">Project Details</h1>
 <h3>📑 Project Name: PHP Comment System</h3>
-<h4>Post Article Page</h4>
+<4>Post Article Page</4>
 <img src="Project Image(BIN)/1.png">
-<h4>First article and comment page</h4>
+<4>First article and comment page</4>
 <img src="Project Image(BIN)/2.png">
-<h4>Second article and comment page</h4>
+<4>Second article and comment page</4>
 <img src="Project Image(BIN)/3.png">
 
 <div class="section">
