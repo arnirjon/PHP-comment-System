@@ -1,0 +1,14 @@
+.post_headline {
+	color: #000;
+	text-decoration: none;
+}
+#read_card {
+	padding: 20px;
+}
+.read_post {
+	font-family: arial;
+	line-height: 20px;
+	line-height: 28px;
+    word-spacing: 2px;
+    font-size: 20px;
+}
